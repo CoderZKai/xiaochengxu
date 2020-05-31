@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText":"视频推荐",
+  "usingComponents":{
+    "MyTitle":"../../components/MyTitle/MyTitle"
+  }
+}
